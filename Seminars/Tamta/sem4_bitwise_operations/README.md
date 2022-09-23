@@ -23,6 +23,8 @@ gcc bitwise_operators.c -o bitwise_operators
 
 ## [bitwise operations extended](https://github.com/freeuni-paradigms/2022-fall/blob/main/Seminars/Tamta/sem4_bitwise_operations/bitwise_operations_extended)
 
+გავარჩიეთ ```int getByte(int x, int n)``` და ```int logicalShift(int x, int n)```
+
 ```sh
 make
 ./btest
