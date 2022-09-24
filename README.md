@@ -22,3 +22,6 @@ https://classroom.google.com/c/NTQ3MTgxMTk2ODI0
 
 ## Git basics
 შემდეგი დოკუმენტი აგიხსნით Git-ის საწყისებს და როგორ გამოიყენოთ ის დავალებების ჩასაბარებლად: https://docs.google.com/document/d/1cpRxmGSkNf-7ynzIr1Bl-NAxfACJH5YjsLbVA4CzSCY/edit#
+
+## ვირტუალური მანქანა
+https://github.com/freeuni-paradigms/2022-fall/tree/main/vm
