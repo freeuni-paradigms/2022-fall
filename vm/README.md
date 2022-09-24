@@ -1,5 +1,5 @@
 # 0) MacOS-ზე გააზიარეთ დავალებების დირექტორია ქსელში
-![MacOS Share](#8.png)
+![MacOS Share](/#8.png)
 
 ```sh
 # 1) დააყენეთ brew პაკეტების მენეჯერი
@@ -33,13 +33,13 @@ chmod +x connect.sh
 
 
 # Ubuntu-ს ინსტალაცია
-![Ubuntu Server Minimized](#1.png)
-![Storage Configuration](#2.png)
-![Storage Configuration Continue](#3.png)
-![User](#4.png)
-![OpenSSH Server](#5.png)
-![Skip all Snaps](#6.png)
-![Reboot on Done](#7.png)
+![Ubuntu Server Minimized](/#1.png)
+![Storage Configuration](/#2.png)
+![Storage Configuration Continue](/#3.png)
+![User](/#4.png)
+![OpenSSH Server](/#5.png)
+![Skip all Snaps](/#6.png)
+![Reboot on Done](/#7.png)
 
 
 # ქვემოთ ჯერ-ჯერობით ყურადღებას ნუ მიაქცევთ
