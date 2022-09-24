@@ -1,5 +1,5 @@
 # 0) MacOS-ზე გააზიარეთ დავალებების დირექტორია ქსელში
-![MacOS Share](/#8.png)
+![MacOS Share](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%238.png)
 
 ```sh
 # 1) დააყენეთ brew პაკეტების მენეჯერი
@@ -33,13 +33,13 @@ chmod +x connect.sh
 
 
 # Ubuntu-ს ინსტალაცია
-![Ubuntu Server Minimized](/#1.png)
-![Storage Configuration](/#2.png)
-![Storage Configuration Continue](/#3.png)
-![User](/#4.png)
-![OpenSSH Server](/#5.png)
-![Skip all Snaps](/#6.png)
-![Reboot on Done](/#7.png)
+![Ubuntu Server Minimized](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%231.png)
+![Storage Configuration](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%232.png)
+![Storage Configuration Continue](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%233.png)
+![User](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%234.png)
+![OpenSSH Server](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%235.png)
+![Skip all Snaps](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%236.png)
+![Reboot on Done](https://github.com/freeuni-paradigms/2022-fall/raw/main/vm/%237.png)
 
 
 # ქვემოთ ჯერ-ჯერობით ყურადღებას ნუ მიაქცევთ
