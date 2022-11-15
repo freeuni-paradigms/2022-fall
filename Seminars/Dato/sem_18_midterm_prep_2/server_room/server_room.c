@@ -16,7 +16,6 @@ struct cpu **SetupServers(struct cpu *server, bootstrapScript script);
 
 struct cpu **CreateComputerLab(short *roomNumber, struct serverRoom *servers)
 {
-    //შენიშვნა ესემბლიზე <R1>
   roomNumber[*roomNumber] = 0;
   if (servers[2].node.id > 3)
     servers += ((struct cpu *) (servers->next[0].cores))->id;
